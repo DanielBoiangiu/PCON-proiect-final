@@ -1,19 +1,17 @@
-# (Titlu)
+# Hip-Hop Machine
 (Scurtă descriere)
 
-## (Instalare)
+## Max MSP
 ...
 
-## (Utilizare)
+## Space bar - play
+   Mouse click - program drum machine sequence
+   Mouse click - select vocal sample (1-5)
 ...
 
 ## (Istoric)
 
-(13.05) ...
-
-(3.06) ...
-
-(X.06) ...
+(22.06.2022) - completed
 
 ## (Link-uri)
 ...
