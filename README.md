@@ -4,7 +4,8 @@ Un program de Max MSP care emuleaza un sampler cu 6 canale si quantizare maxima 
 ## Max MSP
 
 
-## Space bar - play
+## Controls
+   Space bar - play
    Mouse click - program drum machine sequence
    Mouse click - select vocal sample (1-5)**
 
@@ -14,7 +15,7 @@ Un program de Max MSP care emuleaza un sampler cu 6 canale si quantizare maxima 
 (22.06.2022) - completed
 
 ## (Link-uri)
-
+DOWNLOAD SAMPLES: https://we.tl/t-hZWni3wRfy
 
 # Dezvoltarea proiectului
 
