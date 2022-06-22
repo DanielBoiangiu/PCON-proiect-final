@@ -1,20 +1,20 @@
 # Hip-Hop Machine
-(Scurtă descriere)
+Un program de Max MSP care emuleaza un sampler cu 6 canale si quantizare maxima pe saisprezecime si o baza de date de 5 vocal samples (Speech-uri).
 
 ## Max MSP
-...
+
 
 ## Space bar - play
    Mouse click - program drum machine sequence
-   Mouse click - select vocal sample (1-5)
-...
+   Mouse click - select vocal sample (1-5)**
+
 
 ## (Istoric)
 
 (22.06.2022) - completed
 
 ## (Link-uri)
-...
+
 
 # Dezvoltarea proiectului
 
