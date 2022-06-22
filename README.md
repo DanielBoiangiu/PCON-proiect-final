@@ -5,9 +5,9 @@ Un program de Max MSP care emuleaza un sampler cu 6 canale si quantizare maxima 
 
 
 ## Controls
-   Space bar - play
-   Mouse click - program drum machine sequence
-   Mouse click - select vocal sample (1-5)**
+   Space bar - play /
+   Mouse click - program drum machine sequence /
+   Mouse click - select vocal sample (1-5)
 
 
 ## (Istoric)
